@@ -22,7 +22,7 @@ An *Agentic* Retrieval‑Augmented Generation (RAG) system that answers question
    git clone https://github.com/oshobabz/Agentic_RAG_system.git
    cd Agentic_RAG_system
 
-##🧠 How it Works
+## 🧠 How it Works
 
 Embedding & Vector Store: Reviews are converted into vector representations using a text embedding model. These are stored in a vector database/index for fast semantic retrieval.
 
@@ -32,7 +32,7 @@ Generation: A language model is then prompted with the retrieved review excerpts
 
 Agentic Behavior: The system can direct the retrieval + generation flow (the “agent” part) — e.g., identify whether to fetch more reviews, filter by restaurant or category, and tailor the summarization.
 
-##✅ Use Cases
+## ✅ Use Cases
 
 Foodies seeking quick insights about restaurants before visiting
 
@@ -40,7 +40,7 @@ Restaurant owners wanting to monitor review themes (service, ambiance, menu qual
 
 Review analysis for market research or competitive benchmarking
 
-##🚀 Next Steps & Enhancements
+## 🚀 Next Steps & Enhancements
 
 Add support for more review sources (Yelp, Google Reviews, TripAdvisor)
 
